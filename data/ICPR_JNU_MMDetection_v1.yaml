@@ -1,0 +1,53 @@
+# ICPR_JNU_MMDetection_v1
+path: ../MMDyolov5-master/dataset/ICPR_JNU_MMDetection_v1 # dataset root dir
+train: images/train/color
+val: images/val/color
+test: images/test/color 
+# note that data in "val" should be selected from "train" by yourself in an appropriate proportion. (Multi-modal images and labels should be selected simultaneously)
+
+# Classes
+names:
+  0: person
+  1: boat
+  2: traffic sign
+  3: animal
+  4: seat
+  5: bird
+  6: sign
+  7: cyclist
+  8: bicycle
+  9: car
+  10: ball
+  11: light
+  12: garbage can
+
+# Data organization form
+#################################
+#-ICPR_JNU_MMDetection_v1
+# -images
+#   -train
+#     -train_001.png
+#     -train_002.png
+#     ...
+#   -val
+#     -val_001.png
+#     -val_002.png
+#     ...
+#   -test
+#     -test_001.png
+#     -test_002.png
+#     ...
+# -labels
+#   -train
+#     -train_001.txt
+#     -train_002.txt
+#     ...
+#   -val
+#     -val_001.txt
+#     -val_002.txt
+#     ...
+#   -test
+#     -test_001.txt
+#     -test_002.txt
+#     ...
+#################################
