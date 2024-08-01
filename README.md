@@ -16,3 +16,10 @@ In this track, we provide a dataset named **ICPR_JNU MDetection-v1**, which comp
 |:-----------:|:----------------:|:---------:|
 | ![Depth Output](pics/depth1.png) | ![IR Output](pics/tir1.png) | ![RGB Output](pics/rgb1.png) |
 | ![Depth Output](pics/depth2.png) | ![IR Output](pics/tir2.png) | ![RGB Output](pics/rgb2.png) |
+
+### Details
+
+| Depth | Thermal-IR |
+|:-----------:|:----------------:|
+| ![Depth Output](pics/depth1.png) | ![IR Output](pics/tir1.png) |
+
