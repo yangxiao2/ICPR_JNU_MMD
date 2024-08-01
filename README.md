@@ -86,9 +86,9 @@ ICPR_JNU MDetection-v1
 
 # Baseline
 
-This code is based on [yolo-v5](https://github.com/ultralytics/yolov5/releases), you can follow the [README_yolo.md](/README_yolo.md) first to build a envirement.  We have modified it to accommodate this multimodal task, while you can also build your own model to accomplish this task.
+This code is based on [yolo-v5](https://github.com/ultralytics/yolov5/releases), you can follow the [README_yolo.md](/README_yolo.md) or [README_yolo.zh-CH.md](/README_yolo.zh-CH.md)first to build a envirement.  We have modified it to accommodate this multimodal task, while you can also build your own model to accomplish this task.
 
-In this code, we provide a 
+In this code, we provide a [/data/ICPR_JNU_MMDetection_v1.yaml](/data/ICPR_JNU_MMDetection_v1.yaml) to suit the dataset.
 ## Training 
 We provide a
 
