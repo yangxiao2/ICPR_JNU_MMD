@@ -99,8 +99,14 @@ In this code, we provide a [/data/ICPR_JNU_MMDetection_v1.yaml](/data/ICPR_JNU_M
   ```bash
     python train.py
   ```
+## Testing
 
+Generate the predictions '''bash pred.zip ''' for test set:
+'''bash
+  python test_model.py
+'''
 
+- **❗Note** that labels in testset are all blank, only on purpose of generate your predictions conveniently. More details of evaluation are [here]().
 
 
 
