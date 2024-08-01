@@ -94,7 +94,7 @@ In this code, we provide a [/data/ICPR_JNU_MMDetection_v1.yaml](/data/ICPR_JNU_M
 
 ## Training 
 - To build your own model, you should redesign the modules in [./models/yolo.py](/models/yolo.py) at least.
-- To train your own model, you should modify the **Hyperparameters files** in [./data/hyps](data/hyps) first.
+- To train your own model, you should modify the **Hyperparameters** in [./data/hyps](data/hyps) first.
 - Train your own model directly using:
   ```bash
     python train.py
