@@ -8,7 +8,7 @@
 
 This is the official repository for Track 2: _Multi-Modal Object Detection challenge (ICPR 2024)_.
 
-This challenge focuses on Object Detection utilizing multi-modal data source including RGB, depth, and infrared images. You can visit the [official website](https://prci-lab.github.io/mmpr-workshop-icpr20242) for more details or directly participate in this track on [codalab](https://codalab.lisn.upsaclay.fr/competitions/19898?secret_key=ceb60c4e-5f83-4ede-996c-f5272c6f2d31).
+This challenge focuses on Object Detection utilizing multi-modal data source including RGB, depth, and infrared images. You can visit the [official website](https://prci-lab.github.io/mmpr-workshop-icpr2024/) for more details or directly participate in this track on [codalab](https://codalab.lisn.upsaclay.fr/competitions/19898?secret_key=ceb60c4e-5f83-4ede-996c-f5272c6f2d31).
 
 # Dataset
 
