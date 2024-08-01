@@ -21,7 +21,7 @@ In this track, we provide a dataset named **ICPR_JNU MDetection-v1**, which comp
 
   | Lables | Labels Correlation |
   |:-----------:|:-----------:|
-  |<img src="pics/labels.jpg" width="300" height="300">| <img src="pics/labels_correlogram.jpg" width="300" height="300"> |
+  |<img src="pics/labels.jpg" width="250" height="250">| <img src="pics/labels_correlogram.jpg" width="250" height="250"> |
 
 ## Examples
 
