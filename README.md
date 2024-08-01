@@ -101,12 +101,13 @@ In this code, we provide a [/data/ICPR_JNU_MMDetection_v1.yaml](/data/ICPR_JNU_M
   ```
 ## Testing
 
-Generate the predictions '''bash pred.zip ''' for test set:
-'''bash
+Generate the predictions `pred.zip` for test set:
+
+  ```bash
   python test_model.py
-'''
+  ```
 
-- **❗Note** that labels in testset are all blank, only on purpose of generate your predictions conveniently. More details of evaluation are [here]().
+- **❗Note** that labels in testset are all blank, only on purpose of generating your predictions conveniently. Results `pred.zip` will be generated automatically and it's the only file you need to submit to _Codalab_ for evaluation. More details of evaluation can be found [here]().
 
 
-
+*If you have any questions, please email us at yangxiao2326@gmail.com.*
