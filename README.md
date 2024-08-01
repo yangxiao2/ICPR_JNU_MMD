@@ -93,7 +93,9 @@ In this code, we provide a [/data/ICPR_JNU_MMDetection_v1.yaml](/data/ICPR_JNU_M
 - **❗Note!!!** The valadation set is not provided, you should divide the train set appropriately by yourself to validate during training.
 
 ## Training 
-- Train your own model:
+- To build your own model, you can redesign the modules in [yolo.py](/models/yolo.py).
+- To train your own model, you should modify the **Hyperparameters files** in [/data/Hyp]() first.
+- Train your own model directly using:
   ```bash
     python train.py
   ```
