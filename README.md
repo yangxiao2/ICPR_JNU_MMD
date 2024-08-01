@@ -8,7 +8,7 @@
 
 This is the official repository for Track 2: _Multi-Modal Object Detection challenge (ICPR 2024)_.
 
-This challenge focuses on Object Detection utilizing multi-modal data source including RGB, depth, and infrared images. You can visit the [official website](https://prci-lab.github.io/mmpr-workshop-icpr20242) for more details or directly participate in this track on [codalab]().
+This challenge focuses on Object Detection utilizing multi-modal data source including RGB, depth, and infrared images. You can visit the [official website](https://prci-lab.github.io/mmpr-workshop-icpr20242) for more details or directly participate in this track on [codalab](https://codalab.lisn.upsaclay.fr/competitions/19898?secret_key=ceb60c4e-5f83-4ede-996c-f5272c6f2d31).
 
 # Dataset
 
@@ -107,7 +107,7 @@ Generate the predictions `pred.zip` for test set:
   python test_model.py
   ```
 
-- **❗Note** that labels in testset are all blank, only on purpose of generating your predictions conveniently. Results `pred.zip` will be generated automatically and it's the only file you need to submit to _Codalab_ for evaluation. More details of evaluation can be found [here]().
+- **❗Note** that labels in testset are all blank, only on purpose of generating your predictions conveniently. Results `pred.zip` will be generated automatically and it's the only file you need to submit to _Codalab_ for evaluation. More details of evaluation can be found [here](https://codalab.lisn.upsaclay.fr/competitions/19898?secret_key=ceb60c4e-5f83-4ede-996c-f5272c6f2d31#learn_the_details-evaluation).
 
 
 *If you have any questions, please email us at yangxiao2326@gmail.com.*
