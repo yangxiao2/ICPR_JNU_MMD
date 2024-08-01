@@ -1,8 +1,8 @@
 # ICPR Multi-Modal Visual Pattern Recognition Challenge Track 2: Multi-Modal Object Detection
-<div style="text-align:center">
+<div align=center>
   <img src="pics/pic_0.png" width="300" height="300">
 </div>
-This is the official repository for the Track 2: Multi-Modal Object Detection challenge (ICPR 2024)_.
+This is the official repository for Track 2: _Multi-Modal Object Detection challenge (ICPR 2024)_.
 
 This challenge focuses on Object Detection utilizing multi-modal data source including RGB, depth, and infrared images. You can visit the [official website](https://prci-lab.github.io/mmpr-workshop-icpr20242) for more details or directly participate in this track on [codalab]().
 
@@ -15,14 +15,14 @@ In this track, we provide a dataset named **ICPR_JNU MDetection-v1**, which comp
 
 ### Details
 
-| Lables | Labels Correlation |
-|:-----------:|:----------------:|
-|<img src="pics/labels.jpg" width="300" height="300">| <img src="pics/labels_correlogram.jpg" width="300" height="300"> |
+  | Lables | Labels Correlation |
+  |:-----------:|:-----------:|
+  |<img src="pics/labels.jpg" width="300" height="300">| <img src="pics/labels_correlogram.jpg" width="300" height="300"> |
 
 ### Examples
 
 | Depth | Thermal-IR | RGB |
-|:-----------:|:----------------:|:---------:|
+|:-----------:|:------------:|:---------:|
 | ![Depth Output](pics/depth1.png) | ![IR Output](pics/tir1.png) | ![RGB Output](pics/rgb1.png) |
 | ![Depth Output](pics/depth2.png) | ![IR Output](pics/tir2.png) | ![RGB Output](pics/rgb2.png) |
 
