@@ -21,5 +21,5 @@ In this track, we provide a dataset named **ICPR_JNU MDetection-v1**, which comp
 
 | Lables | Thermal-IR |
 |:-----------:|:----------------:|
-| ![labels Output](pics/labels.png) | ![labels corr Output](pics/labels_co.png) |
+| ![labels Output](pics/labels.jpg) | ![labels corre Output](pics/labels_corelogram.jpg) |
 
