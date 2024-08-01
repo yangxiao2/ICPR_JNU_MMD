@@ -37,37 +37,37 @@ ICPR_JNU MDetection-v1
 │ ├── train
 │ │ ├──color
 │ │ │ ├── train_0001.png
-│ │ │ ├── train_0002.jpg
+│ │ │ ├── train_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── train_4000.jpg
+│ │ │ ├── train_4000.png
 │ │ ├──depth
 │ │ │ ├── train_0001.png
-│ │ │ ├── train_0002.jpg
+│ │ │ ├── train_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── train_4000.jpg
+│ │ │ ├── train_4000.png
 │ │ ├──infrared
 │ │ │ ├── train_0001.png
-│ │ │ ├── train_0002.jpg
+│ │ │ ├── train_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── train_4000.jpg
+│ │ │ ├── train_4000.png
 │ ├── val
 │ │ ├── ... ...
 │ ├── test
 │ │ ├──color
 │ │ │ ├── test_0001.png
-│ │ │ ├── test_0002.jpg
+│ │ │ ├── test_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── test_1000.jpg
+│ │ │ ├── test_1000.png
 │ │ ├──depth
 │ │ │ ├── test_0001.png
-│ │ │ ├── test_0002.jpg
+│ │ │ ├── test_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── test_1000.jpg
+│ │ │ ├── test_1000.png
 │ │ ├──infrared
 │ │ │ ├── test_0001.png
-│ │ │ ├── test_0002.jpg
+│ │ │ ├── test_0002.png
 │ │ │ ├── ... ...
-│ │ │ ├── test_1000.jpg
+│ │ │ ├── test_1000.png
 └──/labels/
   ├── /train/color/
   │ ├── train_0001.txt
