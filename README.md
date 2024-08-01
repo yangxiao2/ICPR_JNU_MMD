@@ -74,14 +74,15 @@ ICPR_JNU MDetection-v1
   │ ├── train_0002.txt
   │ │ ├── ... ...
   │ ├── train_4000.txt
-  ├── /val/
+  ├── /val/color
   │ ├── ... ...
   ├── /test/color/
   │ ├── test_0001.txt
   │ ├── test_0002.txt
   │ │ ├── ... ...
   │ ├── test_1000.txt
-
+  └───
+```
 
 
 
